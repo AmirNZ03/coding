@@ -1,1 +1,2 @@
-let user=25
+let user='ffd'
+let sf='a,ir'
